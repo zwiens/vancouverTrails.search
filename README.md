@@ -1,5 +1,7 @@
-# vancouverTrails.search
-A script that prompts users for input to then filter the search on any www.vancouvertrails.com/trails/* domain.
+# vancouverTrails - search
+Meant to be used in Tampermonkey. 
+
+A script that prompts users for input to then filter the search on any www.vancouvertrails.com/trails/\* domain.
 
 Made mostly for personal use (found it difficult to navigate their trails listing, but like the description of the hikes and usability of the site.
 
